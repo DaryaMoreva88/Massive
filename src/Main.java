@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         //Задание 1
         System.out.println("Задание 1");
-        int [] weight = new int [12];
+        int [] weight = new int [3];
         weight [0] = 1;
         int oneWeight = weight[0];
         System.out.println(oneWeight);
@@ -37,6 +37,7 @@ public class Main {
 
         //Задание 2
         System.out.println("Задание 2");
-
+        int [] intSequence = {1, 2, 3};
+        System.out.println(intSequence);
     }
 }
